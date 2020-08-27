@@ -4,6 +4,7 @@ Date: 28/8/2020
 
 # Limited
 - Tea Party
+- Hand
 - Supernova
 - Dangerous Spell
 - Ray Gun
