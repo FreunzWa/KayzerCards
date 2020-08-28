@@ -2,13 +2,15 @@
 Version: 1.0
 Date: 28/8/2020
 
-# Limited
+# Limited (1 max)
 - Tea Party
-- Hand
 - Supernova
 - Dangerous Spell
 - Ray Gun
+- The Empty Grave
 
-# Semi-Limited
-- MRSA
+# Semi-Limited (2 max)
 - Cocaine
+- Motion-Sensor Bomb
+- Trap
+- Hand
